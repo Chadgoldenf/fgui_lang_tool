@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <!-- Settlement_Banker/assets/views/btn/btnPurple.xml -->
+  <string name="c6mjb56d9st5h-n3_uev3" mz="title">开始匹配</string>
+  <!-- Settlement_Banker/assets/views/btn/btnYellow.xml -->
+  <string name="c6mjb56d9st5i-n2_em2v" mz="title">1 倍</string>
+  <!-- Settlement_Banker/assets/views/window/item_banker.xml -->
+  <string name="c6mjb56d9st5k-n33_uev3" mz="textCardType">牛牛</string>
+  <!-- Settlement_Banker/settlement_banker.xml -->
+  <string name="c6mjb56d9st5l-n13_uev3" mz="n11">昵称</string>
+  <string name="c6mjb56d9st5l-n14_uev3" mz="n12">牌型</string>
+  <string name="c6mjb56d9st5l-n15_uev3" mz="n13">底分</string>
+  <string name="c6mjb56d9st5l-n16_uev3" mz="n14">下注</string>
+  <string name="c6mjb56d9st5l-n17_uev3" mz="n15">得分</string>
+  <string name="c6mjb56d9st5l-n62_g6q1" mz="textGameNo">对局编号:{value=a156464ghgerhy4646}</string>
+  <string name="c6mjb56d9st5l-n65_hrwj" mz="btnByb">搏一搏</string>
+  <string name="c6mjb56d9st5l-n66_hrwj" mz="btnGoOn">继续游戏</string>
+  <!-- Settlement_None_Banker/assets/views/btn/btnPurple.xml -->
+  <string name="3v4ztc2fhrwj0-n3_uev3" mz="title">开始匹配</string>
+  <!-- Settlement_None_Banker/assets/views/btn/btnYellow.xml -->
+  <string name="3v4ztc2fhrwj3-n2_em2v" mz="title">1 倍</string>
+  <!-- Settlement_None_Banker/assets/views/window/item.xml -->
+  <string name="3v4ztc2fg6q1d-n33_uev3" mz="textCardType">牛牛</string>
+  <!-- Settlement_None_Banker/assets/views/window/item_none_banker.xml -->
+  <string name="3v4ztc2ftm3ho-n33_uev3" mz="textCardType">牛牛</string>
+  <!-- Settlement_None_Banker/settlement_none_banker.xml -->
+  <string name="3v4ztc2fg6q10-n13_uev3" mz="n11">昵称</string>
+  <string name="3v4ztc2fg6q10-n14_uev3" mz="n12">牌型</string>
+  <string name="3v4ztc2fg6q10-n15_uev3" mz="n13">底分</string>
+  <string name="3v4ztc2fg6q10-n16_uev3" mz="n14">下注</string>
+  <string name="3v4ztc2fg6q10-n17_uev3" mz="n15">得分</string>
+  <string name="3v4ztc2fg6q10-n62_g6q1" mz="textGameNo">对局编号:{value=a156464ghgerhy4646}</string>
+  <string name="3v4ztc2fg6q10-n66_hrwj" mz="btnGoOn">继续游戏</string>
+  <string name="3v4ztc2fg6q10-n65_hrwj" mz="btnByb">搏一搏</string>
+  <!-- loading/loading.xml -->
+  <string name="iwcqy7ykpocw3-n4_pocw" mz="textLoading">[color=#FFFFFF,#FFE77F]正在加载中...[/color]</string>
+  <!-- marquee/views/maskMarquee.xml -->
+  <string name="yhg4t51cpr0q5-n1_prra" mz="textMrquee">跑馬燈訊息</string>
+  <!-- popup_feedback/assets/views/btn/fb_btnOrange.xml -->
+  <string name="hgp209uu8nw08-n2_em2v" mz="title">1 倍</string>
+  <!-- popup_feedback/assets/views/btn/fb_btnYellow.xml -->
+  <string name="hgp209uu8nw0b-n2_em2v" mz="title">1 倍</string>
+  <!-- popup_feedback/assets/views/window/fb_popupSetMain_0.xml -->
+  <string name="hgp209uu8nw0f-n35_fq5w" mz="n35">音乐</string>
+  <string name="hgp209uu8nw0f-n36_fq5w" mz="n36">音效</string>
+  <string name="hgp209uu8nw0f-n37_fq5w" mz="n37">公告</string>
+  <string name="hgp209uu8nw0f-n38_fq5w" mz="n38">音乐</string>
+  <string name="hgp209uu8nw0f-n39_fq5w" mz="n39">游戏</string>
+  <!-- popup_feedback/popupFeedback.xml -->
+  <string name="hgp209uu8nw0r-n8_8nw0" mz="btnRule">提交</string>
+  <string name="hgp209uu8nw0r-n16_8nw0" mz="textContent">真诚邀邀请您写下意见，我们将会非常重视!</string>
+  <string name="hgp209uu8nw0r-n17_8nw0" mz="textExplain">若游玩期间有任何疑问或宝贵建议
+欢迎您于此窗口留下建言</string>
+  <!-- popup_help/assets/views/btn/help_btnGame.xml -->
+  <string name="hfwf2f4b8nw0a-n2_pqhv" mz="titleGame">抢桩牛牛</string>
+  <!-- popup_help/assets/views/btn/help_tabExternal_0.xml -->
+  <string name="hfwf2f4b8nw0d-n2_i30f" mz="tablePage">游戏规则</string>
+  <!-- popup_help/popupHelp.xml -->
+  <string name="hfwf2f4b8nw00-n17_i30f" mz="tabExternal_1">牌型算法</string>
+  <string name="hfwf2f4b8nw00-n18_i30f" mz="tabExternal_2">牌型大小</string>
+  <string name="hfwf2f4b8nw00-n19_i30f" mz="tabExternal_3">牌型倍数</string>
+  <string name="hfwf2f4b8nw00-n25_i30f" mz="n25">您目前没有邮件喔~</string>
+  <!-- popup_menu/assets/views/roomInfo.xml -->
+  <string name="hyo6bfwyoglz2-n1_hi0u" mz="textRound">对局编号：</string>
+  <string name="hyo6bfwyoglz2-n3_rmy7" mz="textRoundNum">{round=DNIOHUGYGUILBJK}</string>
+  <string name="hyo6bfwyoglz2-n2_uev3" mz="textLevel">新手场</string>
+  <string name="hyo6bfwyoglz2-n5_rmy7" mz="textAmount">底注: {amount=1}</string>
+  <!-- popup_prompt/assets/views/btn/prompt_btnAzureBlue.xml -->
+  <string name="h8z7xxoa8nw09-n2_em2v" mz="title">1 倍</string>
+  <!-- popup_prompt/assets/views/btn/prompt_btnYellow.xml -->
+  <string name="h8z7xxoa8nw06-n2_em2v" mz="title">1 倍</string>
+  <!-- popup_prompt/popupPrompt.xml -->
+  <string name="h8z7xxoa8nw00-n8_fq5w-texts_def" mz="textContent">现在退出，系统将帮你打完这一局唷！</string>
+  <string name="h8z7xxoa8nw00-n9_fq5w" mz="btnDefine">确定</string>
+  <string name="h8z7xxoa8nw00-n10_fq5w" mz="btnCancel">取消</string>
+  <!-- popup_record/assets/views/window/record_listRecord.xml -->
+  <string name="hglrhxhh8nw04-n32_uev3" mz="textSn">ISKFMELSOWNFKCLSRJDO</string>
+  <string name="hglrhxhh8nw04-n33_uev3" mz="textRoomType">新手场</string>
+  <string name="hglrhxhh8nw04-n35_uev3" mz="textBetLose">-{result=100}</string>
+  <string name="hglrhxhh8nw04-n40_fq5w" mz="textBetWin">+{result=100}</string>
+  <!-- popup_record/popupRecord.xml -->
+  <string name="hglrhxhh8nw00-n13_fq5w" mz="explain">显示一天内最近10条游戏纪录</string>
+  <string name="hglrhxhh8nw00-n15_fq5w" mz="n15">序号</string>
+  <string name="hglrhxhh8nw00-n16_fq5w" mz="n16">对局编号</string>
+  <string name="hglrhxhh8nw00-n17_fq5w" mz="n17">房间</string>
+  <string name="hglrhxhh8nw00-n18_fq5w" mz="n18">盈利</string>
+  <string name="hglrhxhh8nw00-n19_fq5w" mz="n19">结束时间</string>
+  <!-- popup_setting/assets/views/btn/setting_btnOrange.xml -->
+  <string name="h82fmfky8nw0e-n2_em2v" mz="title">1 倍</string>
+  <!-- popup_setting/assets/views/btn/setting_btnYellow.xml -->
+  <string name="h82fmfky8nw0m-n2_em2v" mz="title">1 倍</string>
+  <!-- popup_setting/assets/views/window/setting_popupSetMain_0.xml -->
+  <string name="h82fmfky8nw06-n35_fq5w" mz="n35">音乐</string>
+  <string name="h82fmfky8nw06-n36_fq5w" mz="n36">音效</string>
+  <string name="h82fmfky8nw06-n37_fq5w" mz="n37">公告</string>
+  <string name="h82fmfky8nw06-n38_fq5w" mz="n38">音乐</string>
+  <string name="h82fmfky8nw06-n39_fq5w" mz="n39">游戏</string>
+  <!-- popup_setting/popupSetting.xml -->
+  <string name="h82fmfky8nw00-n33_fq5w" mz="btnFeedback">反馈</string>
+  <string name="h82fmfky8nw00-n34_fq5w" mz="btnRule">规则</string>
+  <string name="h82fmfky8nw00-n50_fq5w" mz="avatarName">sghilggbuigui</string>
+  <string name="h82fmfky8nw00-n51_fq5w" mz="btnHead">更换</string>
+  <string name="h82fmfky8nw00-n51_fq5w-texts_0" mz="btnHead">更换</string>
+  <string name="h82fmfky8nw00-n51_fq5w-texts_def" mz="btnHead">更换头像</string>
+</resources>

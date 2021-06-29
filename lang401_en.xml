@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="c6mjb56d9st5h-n3_uev3" mz="title">start match</string>
+<string name="c6mjb56d9st5i-n2_em2v" mz="title">x1</string>
+<string name="c6mjb56d9st5k-n33_uev3" mz="textCardType">牛牛</string>
+<string name="c6mjb56d9st5l-n13_uev3" mz="n11">nick name</string>
+<string name="c6mjb56d9st5l-n14_uev3" mz="n12">card type</string>
+<string name="c6mjb56d9st5l-n15_uev3" mz="n13">底分</string>
+<string name="c6mjb56d9st5l-n16_uev3" mz="n14">bet</string>
+<string name="c6mjb56d9st5l-n17_uev3" mz="n15">score</string>
+<string name="c6mjb56d9st5l-n62_g6q1" mz="textGameNo">对局编号:{value=a156464ghgerhy4646}</string>
+<string name="c6mjb56d9st5l-n65_hrwj" mz="btnByb">e搏一搏</string>
+<string name="c6mjb56d9st5l-n66_hrwj" mz="btnGoOn">continue game</string>
+<string name="3v4ztc2fhrwj0-n3_uev3" mz="title">start匹配</string>
+<string name="3v4ztc2fhrwj3-n2_em2v" mz="title">x1</string>
+<string name="3v4ztc2fg6q1d-n33_uev3" mz="textCardType">e牛牛</string>
+<string name="3v4ztc2ftm3ho-n33_uev3" mz="textCardType">e牛牛</string>
+<string name="3v4ztc2fg6q10-n13_uev3" mz="n11">nick name</string>
+<string name="3v4ztc2fg6q10-n14_uev3" mz="n12">card type</string>
+<string name="3v4ztc2fg6q10-n15_uev3" mz="n13">score</string>
+<string name="3v4ztc2fg6q10-n16_uev3" mz="n14">bet</string>
+<string name="3v4ztc2fg6q10-n17_uev3" mz="n15">score</string>
+<string name="3v4ztc2fg6q10-n62_g6q1" mz="textGameNo">对局number:{value=a156464ghgerhy4646}</string>
+<string name="3v4ztc2fg6q10-n66_hrwj" mz="btnGoOn">continue game</string>
+<string name="3v4ztc2fg6q10-n65_hrwj" mz="btnByb">e搏一搏</string>
+<string name="iwcqy7ykpocw3-n4_pocw" mz="textLoading">[color=#FFFFFF,#FFE77F]正在加载中...[/color]</string>
+<string name="yhg4t51cpr0q5-n1_prra" mz="textMrquee">跑馬燈訊息</string>
+<string name="hgp209uu8nw08-n2_em2v" mz="title">1 x</string>
+<string name="hgp209uu8nw0b-n2_em2v" mz="title">1 x</string>
+<string name="hgp209uu8nw0f-n35_fq5w" mz="n35">music</string>
+<string name="hgp209uu8nw0f-n36_fq5w" mz="n36">sound</string>
+<string name="hgp209uu8nw0f-n37_fq5w" mz="n37">boardcase</string>
+<string name="hgp209uu8nw0f-n38_fq5w" mz="n38">music</string>
+<string name="hgp209uu8nw0f-n39_fq5w" mz="n39">game</string>
+<string name="hgp209uu8nw0r-n8_8nw0" mz="btnRule">提交</string>
+<string name="hgp209uu8nw0r-n16_8nw0" mz="textContent">真诚邀邀请您写下意见，我们将会非常重视!</string>
+<string name="hgp209uu8nw0r-n17_8nw0" mz="textExplain">若游玩期间有任何疑问或宝贵建议
+欢迎您于此窗口留下建言</string>
+<string name="hfwf2f4b8nw0a-n2_pqhv" mz="titleGame">e抢桩牛牛</string>
+<string name="hfwf2f4b8nw0d-n2_i30f" mz="tablePage">game rule</string>
+<string name="hfwf2f4b8nw00-n17_i30f" mz="tabExternal_1">card算法</string>
+<string name="hfwf2f4b8nw00-n18_i30f" mz="tabExternal_2">card大小</string>
+<string name="hfwf2f4b8nw00-n19_i30f" mz="tabExternal_3">card倍数</string>
+<string name="hfwf2f4b8nw00-n25_i30f" mz="n25">you have no email</string>
+<string name="hyo6bfwyoglz2-n1_hi0u" mz="textRound">round number：</string>
+<string name="hyo6bfwyoglz2-n3_rmy7" mz="textRoundNum">{round=DNIOHUGYGUILBJK}</string>
+<string name="hyo6bfwyoglz2-n2_uev3" mz="textLevel">novice</string>
+<string name="hyo6bfwyoglz2-n5_rmy7" mz="textAmount">bet: {amount=1}</string>
+<string name="h8z7xxoa8nw09-n2_em2v" mz="title">1 x</string>
+<string name="h8z7xxoa8nw06-n2_em2v" mz="title">1 x</string>
+<string name="h8z7xxoa8nw00-n8_fq5w-texts_def" mz="textContent">now back, system is final the game</string>
+<string name="h8z7xxoa8nw00-n9_fq5w" mz="btnDefine">ok</string>
+<string name="h8z7xxoa8nw00-n10_fq5w" mz="btnCancel">cancel</string>
+<string name="hglrhxhh8nw04-n32_uev3" mz="textSn">ISKFMELSOWNFKCLSRJDO</string>
+<string name="hglrhxhh8nw04-n33_uev3" mz="textRoomType">novice</string>
+<string name="hglrhxhh8nw04-n35_uev3" mz="textBetLose">-{result=100}</string>
+<string name="hglrhxhh8nw04-n40_fq5w" mz="textBetWin">+{result=100}</string>
+<string name="hglrhxhh8nw00-n13_fq5w" mz="explain">10 game list</string>
+<string name="hglrhxhh8nw00-n15_fq5w" mz="n15">serial number</string>
+<string name="hglrhxhh8nw00-n16_fq5w" mz="n16">game no</string>
+<string name="hglrhxhh8nw00-n17_fq5w" mz="n17">room</string>
+<string name="hglrhxhh8nw00-n18_fq5w" mz="n18">profit</string>
+<string name="hglrhxhh8nw00-n19_fq5w" mz="n19">end time</string>
+<string name="h82fmfky8nw0e-n2_em2v" mz="title">1 x</string>
+<string name="h82fmfky8nw0m-n2_em2v" mz="title">1 x</string>
+<string name="h82fmfky8nw06-n35_fq5w" mz="n35">music</string>
+<string name="h82fmfky8nw06-n36_fq5w" mz="n36">sound</string>
+<string name="h82fmfky8nw06-n37_fq5w" mz="n37">boardcase</string>
+<string name="h82fmfky8nw06-n38_fq5w" mz="n38">music</string>
+<string name="h82fmfky8nw06-n39_fq5w" mz="n39">game</string>
+<string name="h82fmfky8nw00-n33_fq5w" mz="btnFeedback">back</string>
+<string name="h82fmfky8nw00-n34_fq5w" mz="btnRule">rule</string>
+<string name="h82fmfky8nw00-n50_fq5w" mz="avatarName">sghilggbuigui</string>
+<string name="h82fmfky8nw00-n51_fq5w" mz="btnHead">change</string>
+<string name="h82fmfky8nw00-n51_fq5w-texts_0" mz="btnHead">change</string>
+<string name="h82fmfky8nw00-n51_fq5w-texts_def" mz="btnHead">change head</string>
+</resources>
